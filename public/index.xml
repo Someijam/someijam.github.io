@@ -6,8 +6,18 @@
     <description>Recent content on Someijam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2024  Someijam [萌ICP备20230407号](https://icp.gov.moe/?keyword=20230407) </copyright>
-    <lastBuildDate>Sat, 07 Sep 2024 16:46:44 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026  Someijam [萌ICP备20230407号](https://icp.gov.moe/?keyword=20230407) </copyright>
+    <lastBuildDate>Sun, 21 Dec 2025 04:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>致流萤</title>
+      <link>http://localhost:1313/docs/tofirefly/</link>
+      <pubDate>Sun, 21 Dec 2025 04:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/docs/tofirefly/</guid>
+      <description>不久前我听说你已经醒了，现在我终于能放下心来，想和你说一些话</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/tofirefly/featured.jpeg" />
+    </item>
+    
     <item>
       <title>Info</title>
       <link>http://localhost:1313/about/</link>
